@@ -1,2 +1,3 @@
- this is my project from the html and css training 
+this is a bootstrap project just for testing and training
+
  
